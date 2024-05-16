@@ -1,1 +1,5 @@
-
+Q - mongoDB?
+    No - SQL Document Based Databse
+    Strong Support for Aggregation pipes
+    Works on BSON format
+    Best for Nodejs Application
