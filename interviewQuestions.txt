@@ -3,3 +3,6 @@ Q - mongoDB?
     Strong Support for Aggregation pipes
     Works on BSON format
     Best for Nodejs Application
+
+Collections -- group of documents -equivalent to table in relation db
+    Documents - set of key value pair -  like row in relation db
