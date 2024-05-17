@@ -43,6 +43,7 @@ const userSchema = new mongoose.Schema({
     gender:{
     type: String,
    },
+    { timestamps:true}, // track createdAt and updatedAt
 });
 
 const User = mongoose.model("user",userSchema);
